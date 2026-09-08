@@ -1,5 +1,8 @@
 <!-- Suba o arquivo header_github.png para o seu repo (ex.: pasta assets/) e o caminho abaixo funciona -->
 <div align="center">
+  <p align="center">
+  <b>🇧🇷 Português</b> · <a href="https://github.com/ViniKnuivers/ViniKnuivers/blob/main/README.en.md">🇺🇸 English</a>
+</p>
   <img src="header_github.png" alt="Vinicius Knuivers — Fullstack em formação, em transição para Engenharia de Dados" width="100%"/>
 </div>
 
