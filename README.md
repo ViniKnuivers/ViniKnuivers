@@ -20,7 +20,7 @@
 - 💻 Construindo base como **desenvolvedor fullstack** e em **transição para Engenharia de Dados**
 - 🧠 **TCC:** benchmark de precisão de LLMs na geração de **SQL a partir de linguagem natural em português**
 - 🌱 Foco atual: aprofundando **Python** e iniciando os estudos em **pipelines de dados** (Data Engineering Zoomcamp)
-- 💼 Primeira experiência em TI como estagiário (QA e documentação) em plataforma pública municipal
+- 💼 Primeira experiência em TI como estagiário na Fundação Getúlio Vargas - Projetos (QA e documentação) em plataforma pública municipal
 - 💬 Fala comigo sobre **backend, dados, Java, SQL e LLMs**
 
 ---
