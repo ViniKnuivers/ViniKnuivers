@@ -1,10 +1,10 @@
 <!-- Suba o arquivo header_github.png para o seu repo (ex.: pasta assets/) e o caminho abaixo funciona -->
 <div align="center">
-  <img src="header_github.png" alt="Vinicius Knuivers — Fullstack em formação, em transição para Engenharia de Dados" width="100%"/>
+  <img src="./assets/header_github.png" alt="Vinicius Knuivers — Fullstack em formação, em transição para Engenharia de Dados" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-knuivers-695317283/">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vini.knui@gmail.com">
@@ -20,7 +20,7 @@
 - 💻 Construindo base como **desenvolvedor fullstack** e em **transição para Engenharia de Dados**
 - 🧠 **TCC:** benchmark de precisão de LLMs na geração de **SQL a partir de linguagem natural em português**
 - 🌱 Foco atual: aprofundando **Python** e iniciando os estudos em **pipelines de dados** (Data Engineering Zoomcamp)
-- 💼 Primeira experiência em TI como estagiário na Fundação Getúlio Vargas - Projetos (QA e documentação) em plataforma pública municipal
+- 💼 Primeira experiência em TI como estagiário (QA e documentação) em plataforma pública municipal
 - 💬 Fala comigo sobre **backend, dados, Java, SQL e LLMs**
 
 ---
@@ -59,15 +59,6 @@
 <!-- Tem noção de C++ também. Se quiser exibir, é só descomentar:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 -->
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniKnuivers&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniKnuivers&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
