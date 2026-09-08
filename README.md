@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/vinicius-knuivers-695317283/)">
+  <a href="https://www.linkedin.com/in/vinicius-knuivers-695317283/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vini.knui@gmail.com">
